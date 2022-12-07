@@ -67,3 +67,7 @@ table th {
 table td {
     padding: 1px;
 }
+
+table td img {
+    width: 15px;
+}
